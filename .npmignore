@@ -1,5 +1,4 @@
 # Don't ship the example project
 ExampleProject/
 .github/
-.yarn/
-.yarnrc
+.idea/
